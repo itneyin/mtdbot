@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing: Monster Tower Defense"];
+const statusMessages = [""];
 
 
 let currentIndex = 0;
