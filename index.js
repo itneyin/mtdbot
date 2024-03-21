@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [""];
+const statusMessages = ["Monster Tower Defense⭐"];
 
 
 let currentIndex = 0;
